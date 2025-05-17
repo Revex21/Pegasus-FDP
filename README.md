@@ -6,7 +6,7 @@ Latest build: <a href="">beta-version</a><br>
 Discord: <a href="https://discord.gg/WV6qPzyqTx">discord.gg/fdpclient </a><br>
 </div>
 
-## Installing FDPClient
+## Installing Pegasus Client
 Click [here](docs/INSTALLING.md) for instructions on how to install FDPClient
 
 ## The staff team
